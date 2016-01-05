@@ -1,0 +1,28 @@
+{
+  "name": "snarl-eliza",
+  "version": "0.1.0",
+  "description": "Eliza self-help plugin for snarl, the chatbot for Slack.",
+  "main": "eliza.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/snarl-eliza.git"
+  },
+  "keywords": [
+    "snarl",
+    "plugin",
+    "slack",
+    "slackbot",
+    "chat",
+    "bot",
+    "chatbot"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/snarl-eliza/issues"
+  },
+  "homepage": "https://github.com/martindale/snarl-eliza"
+}
