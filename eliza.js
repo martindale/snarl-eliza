@@ -1,4 +1,4 @@
-var Eliza = require('../lib/eliza');
+var Eliza = require('./lib/eliza');
 var eliza = new Eliza();
 
 eliza.memSize = 500;
